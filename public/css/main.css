@@ -1,3 +1,6 @@
+body{ background-color: #D2D3FF;
+}
+
 #main-header {
   background-color: #6495AA;
   width: 100%;
@@ -51,4 +54,30 @@ ul.access li a:hover{
 #nav li a {
   text-decoration: none;
   background-color: white;
+}
+
+.card-group {
+  display:inline;
+
+}
+
+.card {
+  background-color: white;
+  display: inline-block;
+  width: 200px;
+  height: 250px;
+  margin: 10px;
+  border-radius: 5px;
+  padding-top: 10px;
+}
+
+.card * {
+  width: inherit;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+#signup-card {
+  position: absolute;
+  height: 288px;
 }
