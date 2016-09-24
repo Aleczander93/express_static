@@ -18,7 +18,7 @@ header a {
 }
 
 img {
-padding-left:600px;
+margin-left: 650px;
 
 }
 
@@ -36,6 +36,7 @@ main {
 }
 
 .input-inside{
+  border: 1px solid grey;
   border-radius: 5px;
   padding: 10px 200px 10px 10px;
   font-size: 18px;
@@ -46,7 +47,7 @@ main {
   /*creating the button-like style below*/
   margin-top: 25px;
   width:430px;
-  padding: 20px 0px;
+  padding: 15px 0px;
   border: 1px solid white;
   border-radius: 5px;
   font-size: 20px;
