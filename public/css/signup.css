@@ -1,0 +1,55 @@
+header {
+  height:50px;
+  width:auto;
+  background-color: blue;
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+header a {
+  padding: 20px 100px 0px 0px;
+  float: right;
+  text-decoration: none;
+  color: white;
+  font-family: Arial;
+  font-size: 12px;
+
+}
+
+img {
+padding-left:600px;
+
+}
+
+h2 {
+  font-size: 30px;
+  font-family: Arial;
+}
+
+main {
+  padding-left: 420px;
+}
+
+.input-box {
+  margin: 25px 0px;
+}
+
+.input-inside{
+  border-radius: 5px;
+  padding: 10px 200px 10px 10px;
+  font-size: 18px;
+
+}
+
+.btn {
+  /*creating the button-like style below*/
+  margin-top: 25px;
+  width:430px;
+  padding: 20px 0px;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-size: 20px;
+  background-color: blue;
+  color:white;
+}
